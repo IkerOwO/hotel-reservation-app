@@ -1,0 +1,7 @@
+User
+Hotel
+Room
+Reservation
+Payment
+
+Also it needs to be controlled that 2 users cannot reserve the same Room at the same time
